@@ -1,0 +1,32 @@
+Topics worth discussing:
+
+1st: this site is more like a manual on how to implement certain features, and explains clearly their benefits. Think of it more like a personal notebook on game development, and some cool tricks on how to do certain things.
+
+Some of these topics are things I've personally struggled with
+
+Question: How do I enable the ability to petition questions on the web page, both in general, and by highlighting a specific paragraph?
+
+Game Architecture:
+	State Machines
+		references: gameprogrammingpattern's State Pattern article
+		- Array(Or Hashmap) Style Dictionaries
+		- Implementing a hybrid state machine, concurrent + pushdown + hierarchical
+
+
+
+Game/Interactive Programming notes:
+	- random topics based on things I've discovered how to do
+	- setting up  a properly integrated build setup, with everything included, using only a basic makefile setup
+
+PWDL Implementation:
+	Pre-req, PWDL 2.0 must be implemented and in proper working order
+	- Language parsing
+	- expression parsing
+	- expression serialization
+
+Unity Specific:
+	- Universal Property Drawer Serialization
+	- Integrating an Editor Window with a Property Drawer
+	- Manually implementing ConnectedComponents to get sprite slices in unity
+	- Creating an Aseprite auto importer using AssetProcessor
+	- Input Architecture
