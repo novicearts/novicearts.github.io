@@ -30,3 +30,6 @@ Unity Specific:
 	- Manually implementing ConnectedComponents to get sprite slices in unity
 	- Creating an Aseprite auto importer using AssetProcessor
 	- Input Architecture
+
+Game Design thoughts:
+	- the need to diversify classification of game mechanics (and introduce the idea of primary mechanics vs. thought mechanics)
